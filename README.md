@@ -25,7 +25,7 @@ Unlike Validator Nodes that secure the blockchain, **Storage Nodes** manage and 
 
 ## Install Dependencies 
 ```bash
-sudo apt update && sudo apt install git -y
+sudo apt update && sudo apt install git curl -y
 ```
 
 ## Quick Start
